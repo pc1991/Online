@@ -44,3 +44,9 @@ The half-normal probability graph basically proves the importance of how viable 
 
 ![Box-Cox Method Of Online Linear Model](https://user-images.githubusercontent.com/87962854/131277794-7e87247f-4939-49d9-bb05-d0ae19185223.png)
 
+The Box-Cox graph shows that many of the fitted values are not dispersed within the line.
+
+# Half-Normal Plot for the First Online General Linear Model
+
+![Half-Norm for 1st Online GLM](https://user-images.githubusercontent.com/87962854/131412251-92a8803f-7751-45aa-8379-e02eb1c69447.png)
+
