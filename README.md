@@ -22,17 +22,25 @@ https://github.com/pc1991/Math-Adventures/projects/1#card-67733963
 
 https://github.com/pc1991/Math-Adventures/blob/ecdcc8423413436fb81b0137d2b45a89882cdea4/Fitted%20vs%20Residuals%20in%20Original%20Linear%20Model%20for%20Online.png
 
+# Fitted vs. Residuals on Online Linear Model
+
 For the original linear model, the majority of the fitted values are not dispersed within the line. A general linear model may be more favorable.
 
 ![Fitted vs Residuals in Original Linear Model for Online](https://user-images.githubusercontent.com/87962854/131275135-58c3271d-0da4-470b-802b-10ce17d4f756.png)
+
+# QQ Plot for Residuals in Online Linear Model
 
 ![QQ Plot for Residuals in Online Linear Model](https://user-images.githubusercontent.com/87962854/131276620-790e86c4-b948-41a1-84f0-3705a20788d9.png)
 
 For the quantile-quantile plot with this original model, the fit is mainly accurate throughout.
 
+# Half-Normal Plot of the Online Linear Model
+
 ![Half-Norm Of The Online Linear Model](https://user-images.githubusercontent.com/87962854/131276648-51f9c129-e2aa-406c-9a1c-f3e4113e2f5e.png)
 
 The half-normal probability graph basically proves the importance of how viable this model is.
+
+# Box-Cox Method of Online Linear Model
 
 ![Box-Cox Method Of Online Linear Model](https://user-images.githubusercontent.com/87962854/131277794-7e87247f-4939-49d9-bb05-d0ae19185223.png)
 
