@@ -50,15 +50,33 @@ The Box-Cox graph shows that many of the fitted values are not dispersed within 
 
 ![Half-Norm for 1st Online GLM](https://user-images.githubusercontent.com/87962854/131412251-92a8803f-7751-45aa-8379-e02eb1c69447.png)
 
-The Half-Normal plot shows how accurate the original online linear model is.
+The Half-Normal plot shows how accurate the original online general linear model is.
+
+# Box-Cox Method of First Online General Linear Model
 
 ![Box-Cox for 1st Online GLM](https://user-images.githubusercontent.com/87962854/131423671-934fe31e-6db4-4f38-8d8e-6bdbf800dc6c.png)
 
+For this Box-Cox graph, this first general linear model has more accuracy than the original online linear model.
+
+# Quantile-Quantile Plot for the First Online General Linear Model
+
 ![QQ Plot for 1st Online GLM](https://user-images.githubusercontent.com/87962854/131423702-f882b806-dd78-48d2-a0f5-44d5a4e6c6c5.png)
+
+This fit for this first general linear model is accurate throughout.
+
+# Half-Normal Plot for the Second Online General Linear Model
 
 ![Half-Norm for Second Online GLM](https://user-images.githubusercontent.com/87962854/131423758-4f176960-068d-4809-bfc1-657fe1a692f5.png)
 
+This Half-Normal plot shows how accurate the first original online general linear model is.
+
+# Quantile-Quantile Plot for the Second Online General Linear Model
+
 ![QQ Plot for 2nd Online GLM](https://user-images.githubusercontent.com/87962854/131423971-9cd3cd00-c27e-4281-a174-940af9fb8c2d.png)
+
+This fit for this second general linear model is accurate throughout.
+
+# Correlation Matrix of the Relationship b/w Administrative Duration & Informational Duration
 
 ![Correlation Matrix of relationship between AD   ID](https://user-images.githubusercontent.com/87962854/131424006-e3186fca-2c1e-42fe-9e88-ebbd89cbb666.png)
 
