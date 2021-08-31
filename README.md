@@ -80,9 +80,15 @@ This fit for this second general linear model is accurate throughout.
 
 ![Correlation Matrix of relationship between AD   ID](https://user-images.githubusercontent.com/87962854/131424006-e3186fca-2c1e-42fe-9e88-ebbd89cbb666.png)
 
+# Scatter Plot Showing the Relationship b/w Administrative Duration & Informational Duration
+
 ![GG stats plot between AD   ID](https://user-images.githubusercontent.com/87962854/131424032-e7938bfc-0939-43da-88fc-4aaf7d9107e6.png)
 
+# Correlation Matrix of the Relationship b/w Administrative & Informational
+
 ![Correlation Matrix of relationship between Informational and Administrative](https://user-images.githubusercontent.com/87962854/131424045-4ec20abe-7542-4063-bfe0-0fdf900cb6a9.png)
+
+# Scatter Plot Showing the Relationship b/w Administrative & Informational
 
 ![GG Stats Plot between Informational and Administrative](https://user-images.githubusercontent.com/87962854/131424057-17750dfd-5ff8-4e59-ac57-3a305d577f8c.png)
 
