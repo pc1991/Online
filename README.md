@@ -130,3 +130,88 @@ In log(g$fitted.values) : NaNs produced
 > 
 [1] Inf
 
+> #Citations#
+> citation(package = 'readr')
+
+To cite package ‘readr’ in publications use:
+
+  Hadley Wickham and Jim Hester (2020). readr: Read
+  Rectangular Text Data. R package version 1.4.0.
+  https://CRAN.R-project.org/package=readr
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {readr: Read Rectangular Text Data},
+    author = {Hadley Wickham and Jim Hester},
+    year = {2020},
+    note = {R package version 1.4.0},
+    url = {https://CRAN.R-project.org/package=readr},
+  }
+
+> citation(package = 'faraway')
+
+To cite package ‘faraway’ in publications use:
+
+  Julian Faraway (2016). faraway: Functions and
+  Datasets for Books by Julian Faraway. R package
+  version 1.0.7.
+  https://CRAN.R-project.org/package=faraway
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {faraway: Functions and Datasets for Books by Julian Faraway},
+    author = {Julian Faraway},
+    year = {2016},
+    note = {R package version 1.0.7},
+    url = {https://CRAN.R-project.org/package=faraway},
+  }
+
+ATTENTION: This citation information has been
+auto-generated from the package DESCRIPTION file and
+may need manual editing, see ‘help("citation")’.
+
+> citation(package = 'MASS')
+
+To cite the MASS package in publications use:
+
+  Venables, W. N. & Ripley, B. D. (2002) Modern
+  Applied Statistics with S. Fourth Edition.
+  Springer, New York. ISBN 0-387-95457-0
+
+A BibTeX entry for LaTeX users is
+
+  @Book{,
+    title = {Modern Applied Statistics with S},
+    author = {W. N. Venables and B. D. Ripley},
+    publisher = {Springer},
+    edition = {Fourth},
+    address = {New York},
+    year = {2002},
+    note = {ISBN 0-387-95457-0},
+    url = {https://www.stats.ox.ac.uk/pub/MASS4/},
+  }
+
+> citation(package = 'jmv')
+
+To cite package ‘jmv’ in publications use:
+
+  Ravi Selker, Jonathon Love and Damian Dropmann
+  (2020). jmv: The 'jamovi' Analyses. R package
+  version 1.2.23.
+  https://CRAN.R-project.org/package=jmv
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {jmv: The 'jamovi' Analyses},
+    author = {Ravi Selker and Jonathon Love and Damian Dropmann},
+    year = {2020},
+    note = {R package version 1.2.23},
+    url = {https://CRAN.R-project.org/package=jmv},
+  }
+
+ATTENTION: This citation information has been
+auto-generated from the package DESCRIPTION file and
+may need manual editing, see ‘help("citation")’.
