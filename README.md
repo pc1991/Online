@@ -98,20 +98,35 @@ Please take note of the p-values in the next two scatter plots below.
 
 We need to find the RMSE of each model.
 
-> #Checking the linear and logarithmic root mean square errors of all the linear models#
+>#Checking the linear and logarithmic root mean square errors of all the linear models#
+>
 > rmse <- function(x,y) sqrt(mean(x-y)^2)
+> 
 > rmse(g$fitted.values,online$Administrative_Duration)
+> 
 [1] 2.427661e-14
+
 > rmse(g2$fitted.values,online$Administrative_Duration)
+> 
 [1] 7.759004e-08
+
 > rmse(g3$fitted.values,online$Administrative_Duration)
+> 
 [1] 78.50344
+
 > rmse(log(g$fitted.values),log(online$Administrative_Duration))
+> 
 [1] NaN
+
 Warning message:
+
 In log(g$fitted.values) : NaNs produced
+
 > rmse(log(g2$fitted.values),log(online$Administrative_Duration))
+> 
 [1] Inf
+
 > rmse(log(g3$fitted.values),log(online$Administrative_Duration))
+> 
 [1] Inf
 
