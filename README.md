@@ -94,3 +94,6 @@ Please take note of the p-values in the next two scatter plots below.
 
 ![GG Stats Plot between Informational and Administrative](https://user-images.githubusercontent.com/87962854/131424057-17750dfd-5ff8-4e59-ac57-3a305d577f8c.png)
 
+# Now..... The Question Is.... Which Model Is The Most Efficient To Rely On To Predict The Future Trends?
+
+We need to find the RMSE of each model.
