@@ -130,10 +130,11 @@ In log(g$fitted.values) : NaNs produced
 > 
 [1] Inf
 
-> #Citations#
-> citation(package = 'readr')
+# Conclusion
 
-To cite package ‘readr’ in publications use:
+
+# Citations
+> citation(package = 'readr')
 
   Hadley Wickham and Jim Hester (2020). readr: Read
   Rectangular Text Data. R package version 1.4.0.
@@ -151,7 +152,6 @@ A BibTeX entry for LaTeX users is
 
 > citation(package = 'faraway')
 
-To cite package ‘faraway’ in publications use:
 
   Julian Faraway (2016). faraway: Functions and
   Datasets for Books by Julian Faraway. R package
@@ -174,7 +174,7 @@ may need manual editing, see ‘help("citation")’.
 
 > citation(package = 'MASS')
 
-To cite the MASS package in publications use:
+
 
   Venables, W. N. & Ripley, B. D. (2002) Modern
   Applied Statistics with S. Fourth Edition.
@@ -195,7 +195,6 @@ A BibTeX entry for LaTeX users is
 
 > citation(package = 'jmv')
 
-To cite package ‘jmv’ in publications use:
 
   Ravi Selker, Jonathon Love and Damian Dropmann
   (2020). jmv: The 'jamovi' Analyses. R package
