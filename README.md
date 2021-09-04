@@ -132,6 +132,7 @@ In log(g$fitted.values) : NaNs produced
 
 # Conclusion
 
+Overall, given the models that are ran, the original linear model is the most efficient with minimal error.
 
 # Citations
 > citation(package = 'readr')
